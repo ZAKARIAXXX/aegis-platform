@@ -12,8 +12,12 @@ at the end: strict authorization, transaction integrity under
 concurrency, a full audit trail, and automated security tests that
 prove the boundaries hold.
 
-> Status: **Phase 0 — project bones.** Repository structure, module
-> map and design documents only. No application code yet.
+> Status: **Milestone 0 — design pack complete (Nov 2026).**
+> Architecture, threat model, ADRs, module specifications, error
+> catalogue, testing strategy and authorization matrix are written,
+> and the repository carries an MIT license. No application code
+> yet — code starts at Module A once the Java reactivation gate is
+> passed.
 
 ## The problem it solves
 
