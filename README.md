@@ -18,6 +18,10 @@ prove the boundaries hold.
 > and the repository carries an MIT license. No application code
 > yet — code starts at Module A once the Java reactivation gate is
 > passed.
+>
+> Phase 0 progress (2026-11-23): JDK 21 (Temurin 21.0.13 LTS) is
+> installed and verified on the development machine. Application
+> code still starts at Module A, by design.
 
 ## The problem it solves
 
